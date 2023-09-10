@@ -328,20 +328,60 @@ img {
   z-index: var(--z-back);
 }
 
-.skills__html {
-  width: 95%;
+.skills__50 {
+  width: 50%;
 }
 
-.skills__css {
-  width: 85%;
+.skills__55 {
+  width: 55%;
 }
 
-.skills__js {
+.skills__60 {
+  width: 60%;
+}
+
+.skills__65 {
   width: 65%;
 }
 
-.skills__ux {
+.skills__70 {
+  width: 70%;
+}
+
+.skills__75 {
+  width: 75%;
+}
+
+.skills__80 {
+  width: 80%;
+}
+
+.skills__85 {
   width: 85%;
+}
+
+.skills__90 {
+  width: 90%;
+}
+
+.skills__95 {
+  width: 95%;
+}
+
+.skills__100 {
+  width: 100%;
+}
+
+.skills__45 {
+  width: 45%;
+}
+
+.skills__40 {
+  width: 40%;
+}
+
+.skills__35 {
+  width: 35%;
 }
 
 .skills__img {
